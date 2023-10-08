@@ -39,7 +39,7 @@ body{
 #my-name{
     font-size: 3 rem;
     letter-spacing:0.cap;
-    color:black;
+    color:red;
     font-weight: 700;
     margin-bottom: 0.5rem;
 }
@@ -47,7 +47,7 @@ body{
     padding: 10px;
     font-size: 1rem;
     border-radius: 50;
-    color: black;
+    color: red;
 }
 .social-icons li a i:hover{
 
@@ -153,7 +153,7 @@ section:target {
     height: inherit;
 }
 .seventy-percent{
-    width: 70%;
+    width: 90%;
     height: inherit;
 }
 .eighty-five-percent{
